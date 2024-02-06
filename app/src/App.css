@@ -1,0 +1,21 @@
+.nav {
+    display: flex;
+    background-color: black;
+    color: white;
+}
+.edit {
+    display: flex;
+    margin-left: 70%;
+}
+h3{
+    color: white;
+    margin-left: 20px;
+    text-decoration: none;
+}
+h2{
+    color: white;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}
